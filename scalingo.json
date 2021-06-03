@@ -18,8 +18,8 @@
     },
     "DATABASE_URI": {
       "description": "Connection string for your database.",
-      "value": "$ORMONGO_RS_URL"
+      "value": "$SCALINGO_MONGO_URL"
     }
   },
-  "addons": ["ormongo:2-wt"]
+  "addons": [""]
 }
